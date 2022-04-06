@@ -1,2 +1,2 @@
-# Chen-SQL-Pharmacy Claims
+# Chen-Study-Path
 First repository
